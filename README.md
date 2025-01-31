@@ -29,6 +29,6 @@ The library management system includes the following core tables:
 
 ### ERD
 
-The **Entity-Relationship Diagram (ERD)** of the Library Management System represents the relationships between the tables. It shows how `Books`, `Members`, `Employees`, `Issued_Status`, and `Return_Status` are connected.
+The **Entity-Relationship Diagram (ERD)** of the Library Management System represents the relationships between the tables. 
 ![ERD](Library_ERD.png)
 
